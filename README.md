@@ -63,7 +63,7 @@ No affiliate codes or anything, just good deals I've found.
 | Hackersacademy.com | N/A | 11/20 | N/A |
 | Hacker.house | N/A | 11/20 | N/A |
 
-## Tools & Services
+## Tools & Services (this and below not yet updated)
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
