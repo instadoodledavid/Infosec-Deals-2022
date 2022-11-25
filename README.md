@@ -124,6 +124,7 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
+| Buskill open-source hardware/software | BusKill's black friday deal is 10% off all products purchased between Nov 19 to Dec 04 2022. No code is needed. | 11/24 | [link](https://www.buskill.in/bitcoin-black-friday-2022/) |
 | System76.com | Save up to $300 holiday sale | 11/24 | [link](https://system76.com/specials) |
 | Yubico.com | N/A | 11/24 | N/A |
 | Tile.com | Bundle deals, free shipping | 11/24 | [link](https://www.tile.com/products/deals) |
