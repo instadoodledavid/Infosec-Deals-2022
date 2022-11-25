@@ -20,7 +20,7 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Agilestationery.com | Cybersecurity Games and Tools 15-30% off | 11/29 | [link](https://agilestationery.com/pages/cybersecurity-games-and-tools) |
+| Agilestationery.com | Cybersecurity Games and Tools 15-30% off | 11/24 | [link](https://agilestationery.com/pages/cybersecurity-games-and-tools) |
 
 ## Elearning
 
@@ -37,7 +37,7 @@ No affiliate codes or anything, just good deals I've found.
 | Training.dronesec.com | Course bundle is 40% off w/ GIVETHANKS22 | 11/24 | [link](https://training.dronesec.com/) |
 | tcm-sec.com (Cyber Mentor) | 20-50% off courses | 11/24 | [link](https://tcm-sec.com/coupon/) |
 | ITPro.TV | N/A | 11/24 | [link](https://www.itpro.tv/) |
-| Codeacademy.com | 50% off Pro annual membership w/ CYBER22 | 11/26 | [link](https://www.codecademy.com) |
+| Codeacademy.com | 50% off Pro annual membership w/ CYBER22 | 11/24 | [link](https://www.codecademy.com) |
 
 
 ## Coding & Development
@@ -59,9 +59,9 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Portswigger | N/A | 11/24 | N/A |
-| Fortynorthsecurity.com | N/A | 11/20 | N/A |
+| Fortynorthsecurity.com | N/A | 11/24 | N/A |
 | Hackersacademy.com | N/A | 11/20 | N/A |
-| Hacker.house | N/A | 11/20 | N/A |
+| Hacker.house | N/A | 11/24 | N/A |
 
 ## Tools & Services
 
@@ -70,12 +70,12 @@ No affiliate codes or anything, just good deals I've found.
 | Pulsedive (Threat intel) | 50% off Pro | 11/24 | [link](https://pulsedive.com/about/pro) |
 | hex-rays.com | Black friday deals (requires login?) | 11/24 | [link](https://hex-rays.com/cgi-bin/quote.cgi/login) |
 | Shodanhq.com | No BF sale this year :( | 11/24 | N/A |
-| Hitmanpro.com | BOG2 | 11/23 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
-| Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
-| Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
-| Tenable.io | 50% off Pro w/ code `takehalf` | 11/26 | [link](https://www.tenable.com/buy)
+| Hitmanpro.com | BOG2 | 11/24 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
+| Heimdalsecurity.com | 75% off Thor | 11/24 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
+| Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/24 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
+| Tenable.io | 50% off Pro w/ code `takehalf` | 11/24 | [link](https://www.tenable.com/buy)
 | Particle.io | N/A | 11/24 | N/A |
-| Charlesproxy.com | N/A | 11/23 | N/A |
+| Charlesproxy.com | N/A | 11/24 | N/A |
 | Detectify | N/A | 11/24 | N/A |
 | Wizer security training | N/A | 11/24 | N/A |
 | Hitmanpro.com | N/A | 11/24 | N/A |
@@ -88,8 +88,8 @@ No affiliate codes or anything, just good deals I've found.
 | Shodanhq.com | No BF deal this year | 11/24 | N/A |
 | Binaryedge.io | N/A | 11/24 | N/A |
 | Particle.io | N/A | 11/24 | N/A |
-| Charlesproxy.com | N/A | 11/20 | N/A |
-| 010 Editor | 25% off | 11/26 | [link](https://sweetscape.com/store/) |
+| Charlesproxy.com | N/A | 11/24 | N/A |
+| 010 Editor | 25% off | 11/24 | [link](https://sweetscape.com/store/) |
 | Kon-Boot | 25% off | 11/24 | [link](https://kon-boot.com/?NOVEMBER=1) |
 | Fing | Up to 70% off | 11/24 | [link](https://app.fing.com/internet/account/subscribe) |
 | Proxyman | PROXYMAN_BLACK_FRIDAY_2022 code for 30% off | 11/24 | [link](https://proxyman.io/pricing) |
@@ -128,8 +128,8 @@ No affiliate codes or anything, just good deals I've found.
 | System76.com | Save up to $300 holiday sale | 11/24 | [link](https://system76.com/specials) |
 | Yubico.com | N/A | 11/24 | N/A |
 | Tile.com | Bundle deals, free shipping | 11/24 | [link](https://www.tile.com/products/deals) |
-| Southord.com | N/A | 11/25 | N/A |
-| Thinkpeterson.com | N/A | 11/25 | N/A |
+| Southord.com | N/A | 11/24 | N/A |
+| Thinkpeterson.com | N/A | 11/24 | N/A |
 | Hak5.org | Multiple sales | 11/24 | [link](https://hak5.org/) |
 | Maltronics.com | N/A | 11/24 | N/A |
 | hackin9.org | Some general non-BF sales | 11/24 | [link](https://hakin9.org/shop/) |
@@ -176,9 +176,9 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Robotshop.com | Up to 60% off | 11/20 | [link](https://www.robotshop.com/en/black-friday-cyber-monday.html) |
+| Robotshop.com | Up to 60% off | 11/24 | [link](https://www.robotshop.com/en/black-friday-cyber-monday.html) |
 | Pololu.com | $10-$30 off on orders $100-300 | 11/24 | [link](https://www.pololu.com/blackfriday2022) |
-| Hackerboxes.com | $189 workshop bundle | 11/26 | [link](https://hackerboxes.com/collections/workshops) |
+| Hackerboxes.com | $189 workshop bundle | 11/24 | [link](https://hackerboxes.com/collections/workshops) |
 | Seeedstudio.com | Up to 20% off | 11/24 | [link](https://www.seeedstudio.com/thanks-giving.html) |
 | Ledger.com | 10% off everything until Monday with the code BLACKFRIDAY10 | 11/24 | [link](https://shop.ledger.com/) |
 
