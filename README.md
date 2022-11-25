@@ -74,15 +74,10 @@ No affiliate codes or anything, just good deals I've found.
 | Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
 | Tenable.io | 50% off Pro w/ code `takehalf` | 11/26 | [link](https://www.tenable.com/buy)
-| Binaryedge.io | N/A | 11/23 | N/A |
-| 1password.com | N/A | 11/23 | N/A |
-| Bitwarden.com | N/A | 11/23 | N/A |
-| Particle.io | N/A | 11/25 | N/A |
+| Particle.io | N/A | 11/24 | N/A |
 | Charlesproxy.com | N/A | 11/23 | N/A |
-| Detectify | 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.| 11/26 | [link](https://detectify.com/lp/black-friday-professional-plan-offer) |
-| Pulsedive | 50% off pro/api w/ BLACKFRIDAY21 | 11/25 | [link](https://pulsedive.com/purchase/?code=BLACKFRIDAY21) |
-| Wizer security training | 25% off w/ BLACKFRIDAY25 | 11/25 | [link](https://www.wizer-training.com/pricing?utm_content=promo) |
-| Bitdefender.com | 61-70% off (% vary by link) | 11/20 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer1-opt/last-offer-Black-Friday.html) |
+| Detectify | N/A | 11/24 | N/A |
+| Wizer security training | N/A | 11/24 | N/A |
 | Hitmanpro.com | N/A | 11/24 | N/A |
 | Heimdalsecurity.com | Up to 60% off | 11/24 | [link](https://pages.heimdalsecurity.com/en/affpromo/) |
 | Lowendbox.com | Offers starting 11/25 | 11/24 | [link](https://lowendbox.com/blog/only-8-hours-until-the-first-black-friday-cyber-monday-2022-offers-drop/) |
