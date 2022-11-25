@@ -11,7 +11,7 @@ No affiliate codes or anything, just good deals I've found.
 | Humblebundle.com | $89 annual membership with HOLIDAY22 for new/return members | 11/24 | [link](https://www.humblebundle.com) |
 | Manning.com | Save 50% with 2+ purchases | 11/24 | [link](https://deals.manning.com/thanksgiving/) |
 | Pragprog.com | Save 40% at Checkout with Code "turkeysale2022" | 11/24 | [link](https://pragprog.com) |
-| eForensics Magazine | 50% off | 11/25 | https://eforensicsmag.com/shop-new/ |
+| eForensics Magazine | 50% off | 11/25 | [link](https://eforensicsmag.com/shop-new/) |
 | Microsoft Press Store | 40-55% off w/ BOOKSGIVING | 11/25 | [link](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142354) |
 | Oreilly.com | N/A | 11/25 | N/A |
 | Apress.com | N/A | 11/25 | N/A |
