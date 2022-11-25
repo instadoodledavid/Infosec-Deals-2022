@@ -36,7 +36,7 @@ No affiliate codes or anything, just good deals I've found.
 | Cloudacademy.com | 35% off | 11/24 | [link](https://cloudacademy.com/promos/black-friday-early-bird-2022/) |
 | Training.dronesec.com | Course bundle is 40% off w/ GIVETHANKS22 | 11/24 | [link](https://training.dronesec.com/) |
 | tcm-sec.com (Cyber Mentor) | 20-50% off courses | 11/24 | [link](https://tcm-sec.com/coupon/) |
-| ITPro.TV | N/A | 11/24 | [link](https://www.itpro.tv/ |
+| ITPro.TV | N/A | 11/24 | [link](https://www.itpro.tv/) |
 | Codeacademy.com | 50% off Pro annual membership w/ CYBER22 | 11/26 | [link](https://www.codecademy.com) |
 
 
