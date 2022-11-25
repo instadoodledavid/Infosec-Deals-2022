@@ -7,14 +7,16 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Oreilly.com | N/A | 11/24 | [link](https://www.oreilly.com) |
+| Oreilly.com | N/A | 11/25 | N/A |
 | Nostarch.com | 35% off sale + free shipping w/ HOLIDEALS (ends 11/28) | 11/24 | [link](https://nostarch.com) |
 | Humblebundle.com | $89 annual membership with HOLIDAY22 for new/return members | 11/24 | [link](https://www.humblebundle.com) |
 | Manning.com | Save 50% with 2+ purchases | 11/24 | [link](https://deals.manning.com/thanksgiving/) |
 | Pragprog.com | Save 40% at Checkout with Code "turkeysale2022" | 11/24 | [link](https://pragprog.com) |
-| Apress.com | N/A | 11/24 | [link](https://www.apress.com/) |
-| HPB.com | N/A | 11/24 | N/A |
-| Packtpub.com | N/A | 11/24 | [link](https://www.packtpub.com/) |
+| Apress.com | N/A | 11/25 | [link](https://www.apress.com/) |
+| HPB.com | N/A | 11/25 | N/A |
+| Packtpub.com | N/A | 11/25 | N/A |
+| eForensics Magazine | 50% off | 11/25 | https://eforensicsmag.com/shop-new/ |
+| Microsoft Press Store | 40-55% off w/ BOOKSGIVING | 11/25 | [link](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142354) |
 
 ## Infosec Elearning
 
@@ -29,16 +31,16 @@ No affiliate codes or anything, just good deals I've found.
 | Pluralsight.com | 50% off ($149/224 yr) | 11/24 | [link](https://www.pluralsight.com/offer/2022/bf-cm-50-off) |
 | Practical-devsecops.com | 15% Off! | 11/24 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Offensive-security.com |  20% off Learn One | 11/24 | [link](https://www.offensive-security.com/learn-one/) |
-| Secureninja.com | N/A | 11/24 | [link](https://secureninja.com) |
+| Secureninja.com | N/A | 11/25 | N/A |
 | Udemy.com | $9.99 courses until 11/25  | 11/24 | [link](https://www.udemy.com) |
 | Cybrary.it | 2/mo free w/ YOURTEAM20 | 11/24 | [link](https://www.cybrary.it/upgrade/?plan=/?www=banner&campaign=teams-free-months) |
 | Educative.io | 10% OFF 1-year and 20% OFF 2-year subscriptions | 11/24 | [link](https://www.educative.io/unlimited) |
 | Cloudacademy.com | 35% off | 11/24 | [link](https://cloudacademy.com/promos/black-friday-early-bird-2022/) |
 | Training.dronesec.com | Course bundle is 40% off w/ GIVETHANKS22 | 11/24 | [link](https://training.dronesec.com/) |
 | tcm-sec.com (Cyber Mentor) | 20-50% off courses | 11/24 | [link](https://tcm-sec.com/coupon/) |
-| ITPro.TV | N/A | 11/24 | [link](https://www.itpro.tv/) |
+| ITPro.TV | N/A | 11/24 | N/A |
 | Codeacademy.com | 50% off Pro annual membership w/ CYBER22 | 11/24 | [link](https://www.codecademy.com) |
-
+| Cyber Plumber's Handbook + Lab | 50% off w/ BLACKFRIDAY2022 | 11/25 | [link](https://opsdisk.gumroad.com/l/cphlab/blackfriday2022) |
 
 ## Coding & Development
 
@@ -73,7 +75,7 @@ No affiliate codes or anything, just good deals I've found.
 | Hitmanpro.com | BOG2 | 11/24 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
 | Heimdalsecurity.com | 75% off Thor | 11/24 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/24 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
-| Tenable.io | 50% off Pro w/ code `takehalf` | 11/24 | [link](https://www.tenable.com/buy)
+| Tenable.io | 50% off Pro w/ code `takehalf` | 11/24 | [link](https://store.tenable.com/1479/purl-takehalf?x-promotion=TakeHalf)
 | Particle.io | N/A | 11/24 | N/A |
 | Charlesproxy.com | N/A | 11/24 | N/A |
 | Detectify | N/A | 11/24 | N/A |
@@ -132,7 +134,7 @@ No affiliate codes or anything, just good deals I've found.
 | Thinkpeterson.com | N/A | 11/24 | N/A |
 | Hak5.org | Multiple sales | 11/24 | [link](https://hak5.org/) |
 | Maltronics.com | N/A | 11/24 | N/A |
-| hackin9.org | Some general non-BF sales | 11/24 | [link](https://hakin9.org/shop/) |
+| hackin9.org | 50% off | 11/25 | [link](https://hakin9.org/shop/) |
 
 ## Certifications
 
