@@ -120,7 +120,7 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| ESet.com | 50% off | 11/24 | [link](https://www.eset.com/us/](https://www.eset.com/us/cyber-week-2022/?intcmp=2022-us-hp-bfcm-banner) |
+| ESet.com | 50% off | 11/24 | [link](https://www.eset.com/us/cyber-week-2022/?intcmp=2022-us-hp-bfcm-banner) |
 | Adobe.com | 25% on Creative Cloud | 11/24 | [link](https://www.adobe.com/creativecloud/plans.html?promoid=TPQVL72S&mv=other) |
 | Coreldraw.com | Up to 50% off | 11/24 | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw) |
 | VMware.com | N/A | 11/24 | N/A |
@@ -131,7 +131,7 @@ No affiliate codes or anything, just good deals I've found.
 | ------- | ------- | ----- | ---- |
 | System76.com | Save up to $300 holiday sale | 11/24 | [link](https://system76.com/specials) |
 | Yubico.com | N/A | 11/24 | N/A |
-| Tile.com | Bundle deals, free shipping | 11/24 | [link]((https://www.tile.com/products/deals) |
+| Tile.com | Bundle deals, free shipping | 11/24 | [link](https://www.tile.com/products/deals) |
 | Southord.com | N/A | 11/25 | N/A |
 | Thinkpeterson.com | N/A | 11/25 | N/A |
 | Hak5.org | Multiple sales | 11/24 | [link](https://hak5.org/) |
