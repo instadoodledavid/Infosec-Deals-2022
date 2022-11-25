@@ -139,6 +139,7 @@ No affiliate codes or anything, just good deals I've found.
 | Hak5.org | N/A | 11/25 | N/A |
 | Maltronics.com | 10-25% | 11/20 | https://maltronics.com/collections/ |
 | hackin9.org | Up to 50% off | 11/26 | [link](https://hakin9.org/shop/) |
+| buskill.in | 10% off | 11/26 | [link](https://buskill.in/buy/) |
 
 ## Certifications
 
